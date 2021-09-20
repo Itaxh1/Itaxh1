@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer tryn to be jackofalltrades ☘️ from India in search of best soultions Freelancer, Weeb and Fps Games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itaxh1&label=Profile%20views&color=0e75b6&style=flat" alt="itaxh1" /> </p>
 
