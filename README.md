@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itaxh1&label=Profile%20views&color=0e75b6&style=flat" alt="itaxh1" /> </p>
 
 
-- 🔭 I’m currently working on **AnimeHutch**
+- 🔭 I’m currently working on **Freelance Hotfix**
 
 - 👯 I’m looking to collaborate on **IOS | WEB DEV**
 
