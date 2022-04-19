@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Freelance Hotfix**
 
-- 👯 I’m looking to collaborate on **IOS | WEB DEV**
+- 👯 I’m looking to collaborate on **FLUTTER | WEB DEV**
 
 - 💬 Ask me about **TailWind / DEV-OPS**
 
