@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **FLUTTER | WEB DEV**
 
-- 💬 Ask me about **TailWind / DEV-OPS**
+- 💬 Ask me about **Bootstrap / JavaScript**
 
 - 📫 How to reach me **meetashwin2000@gmail.com**
 
