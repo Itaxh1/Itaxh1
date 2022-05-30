@@ -11,6 +11,10 @@
 - 💬 Ask me about **Bootstrap / JavaScript**
 
 - 📫 How to reach me **meetashwin2000@gmail.com**
+- 
+<a href="https://github.com/Neel-G-png/Neel-G-png">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-G-png&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
