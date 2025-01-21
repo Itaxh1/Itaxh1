@@ -63,11 +63,19 @@ A Python-based **Side-Channel Attack Resistance Framework**. Optimized algorithm
 ### 🌐 [JOS OS Network Stack](#)  
 Implemented a comprehensive network stack in **JOS OS**, including **Ethernet**, **TCP/UDP**, and socket APIs, complemented with detailed documentation.  
 
----
 
+---
 ## 📬 **Get in Touch**  
 - 📧 Email: [ufoundashwin@gmail.com](mailto:ufoundashwin@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ashwinkumar99](https://linkedin.com/in/ashwinkumar99)  
 - 🌐 GitHub: [github.com/Itaxh1](https://github.com/Itaxh1)  
 
 Let's connect and collaborate on exciting projects!
+
+
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://buymeacoffee.com/itaxh1"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50" width="210" />
+  </a>
+</p>
