@@ -1,13 +1,10 @@
 
 ## 👋 Hi there! I'm Ashwin Kumar Uma Sankar  
-Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Data Enthusiast** with a 
-strong foundation in Computer Science and a knack for creating impactful, scalable solutions.
-
-## 📝 Summary
 
 🚀 **Software Engineer (Backend and Frontend)** with 3+ years of experience in building efficient, 
     real-time applications using **Java**, **Node.js**, **Angular** , **NextJs**, **React**,**Spring Boot**, and **AWS**. 
     Proven track record in optimizing system performance, enhancing user engagement, and integrating seamless solutions.
+    
 🛠️ A **Full-Stack Developer** and **DevOps enthusiast** skilled in crafting scalable applications,
      optimizing systems, and exploring innovative solutions in **Machine Learning**, **Data Analytics**, 
      and **Cybersecurity**.
@@ -15,7 +12,7 @@ strong foundation in Computer Science and a knack for creating impactful, scalab
 ## 🎓 Education
 
 - **Oregon State University, Corvallis, USA**  
-  📚 Masters in Computer Science and Engineering 
+  📚 Masters in Computer Science and Engineering (MENG)
   📆 **Sept 2023 – May 2025** | 🎯 **CGPA:** 3.75 / 10
 
 - **Hindustan University, Chennai, India**  
@@ -24,7 +21,7 @@ strong foundation in Computer Science and a knack for creating impactful, scalab
 
 ## 💻 Technical Skills
 
-- **Programming Languages:** Java ☕, Go 🐹, Dart 🎯, C/C++ 💻, SQL (Postgres) 🗃️, JavaScript 🌐, HTML/CSS 🎨
+- **Programming Languages:** Java ☕,  JavaScript 🌐, HTML/CSS 🎨, Python 🐍, Go 🐹, Dart 🎯, C/C++ 💻, SQL (Postgres) 🗃️
 - **Frameworks:** Spring Boot 🌱, Node.js 🌐, Flutter 🦋, Angular 🅰️
 - **AWS Services:** S3 📦, EC2 🖥️, ECS 🐳, Lambda 🕹️, SQS 📨, SNS 🔔
 - **Developer Tools:** Git 🧑‍💻, Docker 🐋, VS Code 🖋️, IntelliJ IDEA 💡
