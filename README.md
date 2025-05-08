@@ -39,22 +39,6 @@ strong foundation in Computer Science and a knack for creating impactful, scalab
 
 
 
-## 🚀 **Featured Projects**  
-### 🔒 [AI-driven Cybersecurity Solution](#)  
-Developed a lightweight AI-driven cybersecurity tool using a 
-small LLM - **llama model** with **RAG** for real-time threat detection. 
-Integrated with **Kafka** and **Filebeat** for efficient log processing.  
-
-### 🧠 [SCARR - SCA Framework](#)  
-A Python-based **Side-Channel Attack Resistance Framework**. 
-Optimized algorithms using **Numba** and profiled multicore performance with **VTune**.  
-
-### 🌐 [JOS OS Network Stack](#)  
-Implemented a comprehensive network stack in **JOS OS**, including **Ethernet**,
-**TCP/UDP**, and socket APIs, complemented with detailed documentation.  
-
-
-
 ## 📬 **Get in Touch**  
 - 📧 Email: [ufoundashwin@gmail.com](mailto:ufoundashwin@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ashwinkumar99](https://linkedin.com/in/ashwinkumar99)  
