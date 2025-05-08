@@ -13,7 +13,7 @@
 
 - **Oregon State University, Corvallis, USA**  
   📚 Masters in Computer Science and Engineering (MENG)
-  📆 **Sept 2023 – May 2025** | 🎯 **CGPA:** 3.75 / 10
+  📆 **Sept 2023 – May 2025** | 🎯 **GPA:** 3.75 / 4
 
 - **Hindustan University, Chennai, India**  
   📚 B. Tech. in Computer Science and Engineering (CSE)  
@@ -22,7 +22,7 @@
 ## 💻 Technical Skills
 
 - **Programming Languages:** Java ☕,  JavaScript 🌐, HTML/CSS 🎨, Python 🐍, Go 🐹, Dart 🎯, C/C++ 💻, SQL (Postgres) 🗃️
-- **Frameworks:** Spring Boot 🌱, Node.js 🌐, Flutter 🦋, Angular 🅰️
+- **Frameworks:** Spring Boot 🌱, Node.js 🌐, Flutter 🦋, Angular 🅰️, React 🌐, Next ⭐️, ThreeJS ☘️, TailWindCSS 💡
 - **AWS Services:** S3 📦, EC2 🖥️, ECS 🐳, Lambda 🕹️, SQS 📨, SNS 🔔
 - **Developer Tools:** Git 🧑‍💻, Docker 🐋, VS Code 🖋️, IntelliJ IDEA 💡
 - **CS Fundamentals:** DBMS 🗄️, OOP 📦, Operating Systems 🖥️
