@@ -1,7 +1,7 @@
 
 ## 👋 Hi there! I'm Ashwin Kumar Uma Sankar  
 
-🚀 **Software Engineer (Backend and Frontend)** with 3+ years of experience in building efficient, 
+🚀 **Software Engineer (Backend and Frontend)** with 2+ years of experience in building efficient, 
     real-time applications using **Java**, **Node.js**, **Angular** , **NextJs**, **React**,**Spring Boot**, and **AWS**. 
     Proven track record in optimizing system performance, enhancing user engagement, and integrating seamless solutions.
     
