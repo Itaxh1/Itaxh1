@@ -9,7 +9,7 @@ I am a Software Engineer (Backend and Frontend) with 2+ years of experience buil
   ![CLAW Demo](claw-promo.gif) 
   
 ### [Claw Code Github Repo](https://github.com/Claw-Code)  
-I’m the creator of Claw Code An AI-native platform that accelerates 2D and 3D game development by combining **Unity**, the **Gwen UI toolkit**, and **Groq-powered large language models** for real-time code generation and backend logic. CLAW empowers developers to build, preview, and iterate gameplay and UI seamlessly with natural language prompts and live coding assistance.  
+I’m one of the creator of Claw Code An AI-native platform that accelerates 2D and 3D game development by combining **Unity**, the **Gwen UI toolkit**, and **Groq-powered large language models** for real-time code generation and backend logic. CLAW empowers developers to build, preview, and iterate gameplay and UI seamlessly with natural language prompts and live coding assistance.  
 
 Explore it live at [claw.codes](https://claw.codes/)
 </div>
